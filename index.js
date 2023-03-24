@@ -17,8 +17,5 @@ function save() {
 
 
 
-increment();
-save();
-
 
     
